@@ -126,4 +126,7 @@
   <ItemGroup>
     <None Include="ClassDiagram.cd" />
   </ItemGroup>
+  <ItemGroup>
+    <Text Include="Documentation\CKeyboardEvents.txt" />
+  </ItemGroup>
 </Project>
