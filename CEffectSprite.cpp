@@ -1,0 +1,1 @@
+#include "CEffectSprite.h"
